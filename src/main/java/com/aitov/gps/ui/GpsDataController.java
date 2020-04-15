@@ -24,8 +24,6 @@ import java.util.List;
 
 /**
  * Data controller for window elements, listening gps data events
- *
- * @author Alexander Aitov
  */
 public class GpsDataController implements GpsDataListener {
     // update timeout for coordinates label, enough time for copy text from text field

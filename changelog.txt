@@ -1,0 +1,10 @@
+Java GPS info changelog
+
+Version 0.1
+- Current coordinates, time and speed;
+- Satellites signal quality
+- Satellites position
+- Position on world map
+
+Contributions:
+Initial functionality by Alexander Aitov (@aitov)

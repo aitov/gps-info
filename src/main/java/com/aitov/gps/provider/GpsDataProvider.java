@@ -4,8 +4,6 @@ import java.io.InputStream;
 
 /**
  * Abstract GPS data provider
- *
- * @author Alexander Aitov
  */
 public interface GpsDataProvider {
     boolean validData(String sentence);

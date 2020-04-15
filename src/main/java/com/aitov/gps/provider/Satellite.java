@@ -2,8 +2,6 @@ package com.aitov.gps.provider;
 
 /**
  * Satellite information
- *
- * @author Alexander Aitov
  */
 public class Satellite {
     private String id;

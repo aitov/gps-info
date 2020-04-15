@@ -10,8 +10,6 @@ import java.io.IOException;
 
 /**
  * World map panel with current position (if available)
- *
- * @author Alexander Aitov
  */
 public class MapPanel extends JPanel {
     private final static int IMAGE_WIDTH = 320;

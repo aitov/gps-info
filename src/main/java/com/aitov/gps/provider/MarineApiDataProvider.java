@@ -17,8 +17,6 @@ import java.util.List;
 
 /**
  * MarineAPI gps data provider implementation
- *
- * @author Alexander Aitov
  */
 public class MarineApiDataProvider implements GpsDataProvider {
     // for BU-353S4 GPS receiver we need timeout more than 1 second, 5 seconds enough

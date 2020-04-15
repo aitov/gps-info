@@ -5,8 +5,6 @@ import java.time.LocalDateTime;
 
 /**
  * Position information
- *
- * @author Alexander Aitov
  */
 public class Position {
     LocalDateTime date;

@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * Satellite signal quality panel
- *
- * @author Alexander Aitov
  */
 public class SatelliteSignalPanel extends JPanel {
     public static final int MAX_BAR_HEIGHT = 180;

@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * Satellites position panel, paints satellites on the sky
- *
- * @author Alexander Aitov
  */
 public class SatellitePositionPanel extends JPanel {
 

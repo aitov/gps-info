@@ -6,8 +6,6 @@ import java.awt.event.ActionListener;
 
 /**
  * Main window with panels
- *
- * @author Alexander Aitov
  */
 public class GpsWindow {
     public static final String CONNECT_TEXT = "Connect";
